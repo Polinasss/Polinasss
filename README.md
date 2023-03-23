@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Polina <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/77494184/227190139-6595c1df-ff1b-4e6f-8839-400189836104.png"></h2>
 
-<!--
-**Polinasss/Polinasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I am a Frontend developer, currently graduating from Belarusian State University as an economist-informatics. I am very keen to learn new technologies and use them to either create something useful and beautiful.   
+😄 Interesting fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains :D
 
-Here are some ideas to get you started:
+### 🛠 Languages and technologies
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
+![Axios](https://img.shields.io/badge/-axios-090909?style=for-the-badge&logo=axios)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
+![Scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=sass)
+![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Contact with me
+[![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:polina129889@gmail.com)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/PolinaGushcha)
+
+![Polinasss's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=polinasss&show_icons=true&theme=radical&count_private=true)
+
+<a align="center" href="https://github.com/Polinasss"></a>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Polinasss&theme=radical&layout=compact" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Polinasss&theme=radical" />
