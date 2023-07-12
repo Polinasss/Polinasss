@@ -3,7 +3,7 @@
 
 ### About me
 I am a Frontend developer. I graduated from Belarusian State University in 2023 as an business analyst, but in my first year of study at the university, I decided that the soul lies in writing code. I am very keen to learn new technologies and use them to either create something useful and beautiful.   
-😄 Interesting fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains :D
+😄 Interesting fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains
 
 ### 🛠 Languages and technologies
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
