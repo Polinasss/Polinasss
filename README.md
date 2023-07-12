@@ -2,7 +2,7 @@
 <h2 align="center"><img src="https://user-images.githubusercontent.com/77494184/227190139-6595c1df-ff1b-4e6f-8839-400189836104.png"></h2>
 
 ### About me
-I am a Frontend developer, currently graduating from Belarusian State University as an economist-informatics. I am very keen to learn new technologies and use them to either create something useful and beautiful.   
+I am a Frontend developer, graduated from Belarusian State University in 2023 as an business analyst. I am very keen to learn new technologies and use them to either create something useful and beautiful.   
 😄 Interesting fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains :D
 
 ### 🛠 Languages and technologies
