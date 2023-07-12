@@ -7,7 +7,7 @@ I am a Frontend developer. I graduated from Belarusian State University in 2023 
 
 ### 🛠 Languages and technologies
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
 ![Axios](https://img.shields.io/badge/-axios-090909?style=for-the-badge&logo=axios)
